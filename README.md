@@ -4,5 +4,5 @@
 - [Wave security DDOS/Web security]([PRIVATE PROJECT])
 - [Website/Skid development](http://hotemoboy.tk/) 
 - http://nongender.tk/
-- [Silvia security projects] ([PRIVATE PROJECT])
+- [Silvia security projects]([PRIVATE PROJECT])
 - Contacts 💀 : [httpsrip](https://t.me/httpsrip)
